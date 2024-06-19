@@ -1,0 +1,163 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "type": "greet",
+      "info": "Welcome back, John Doe!"
+    },
+  ]
+    "posts": [
+    {
+      "id": 2,
+      "type": "info",
+      "info": "Aman Sharma has posted a new travel blog on the community tab.",
+      "desc": "I just shared my travel blog about my recent trip to the Himalayas. It includes breathtaking photos and some useful travel tips!",
+       "like": 177,
+      "img": "https://cdn.britannica.com/39/76239-050-DE5FCF36/Climbers-side-Nepali-Mount-Everest.jpg"
+    },
+    {
+      "id": 3,
+      "type": "info",
+      "info": "Sonal Mehta has shared her experience visiting the Taj Mahal.",
+      "desc":"I just visited the Taj Mahal, and it was awe-inspiring! I wrote about its architectural beauty and historical significance.",
+      "like": 12,
+      "img": "https://images.squarespace-cdn.com/content/v1/577d2211414fb56605e1e917/1517203548564-FZY6EFIKMURPL14BWOQR/visiting-the-taj-mahal-tips.jpg"
+    },
+    {
+      "id": 4,
+      "type": "info",
+      "info": "Rohit Verma has posted beautiful pictures from his trip to Goa.",
+      "desc":  "Check out the stunning photos I took during my trip to Goa! The beaches and nightlife were absolutely vibrant.",
+       "like": 100,
+      "img" : "https://static.toiimg.com/photo/110582523.cms"
+    },
+    {
+      "id": 5,
+      "type": "info",
+      "info": "Neha Gupta has reviewed a restaurant in Bangalore.",
+      "desc": "I just reviewed a fantastic restaurant in Bangalore. The cuisine was exquisite and the ambiance perfect!",
+       "like": 10,
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZoYqxrNFq9GJ-Y6S3RFQPlMmjNoLavNHg_w&usqp=CAU"
+    },
+    {
+      "'id": 6,
+      "type": "info",
+      "info": "Anil Kapoor has shared tips for traveling in Rajasthan.",
+      "desc": "I posted some practical tips for exploring Rajasthan, including the best times to visit and must-see attractions.",
+       "like": 108,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Y0zM7DVxhc7Jr01iAE6GXfGBHOXeelJRdg&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "type": "info",
+      "info": "Kavita Patil has posted a guide to the best street food in Delhi.",
+      "desc": "I've shared my favorite street food spots in Delhi. Don't miss out on these flavors and specialties!",
+       "like": 122,
+      "img": "https://b.zmtcdn.com/data/pictures/0/20004890/03c48f0ef31544b4dbbe200e327ea117.jpg"
+    },
+    {
+      "id": 8,
+      "type": "info",
+      "info": "Suresh Reddy has shared his trekking experience in Himachal.",
+      "desc": "I just got back from an amazing trekking adventure in Himachal. The scenic routes and challenging trails were incredible.",
+       "like": 133,
+      "img" : "https://c.myholidays.com/blog/2023/7/51627_Sar%20Pass%20Trek%20Himachal%20Pradesh.webp"
+    },
+    {
+      "id": 9,
+      "type": "info",
+      "info": "Deepika Joshi has posted her favorite cultural festivals in India.",
+      "desc":  "I highlighted some of my favorite cultural festivals in India. Check out my personal experiences and favorite moments.",
+       "like": 109,
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf937sk3-gKPV1IcBV2-Bbrzh6rWTMhglHTXGptLqJ3vNyW69cNsJmZ_sJL0yqllPsZBU&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "type": "info",
+      "info": "Vikram Malhotra has reviewed hotels in Kerala.",
+      "desc": "I've reviewed several hotels in Kerala. Here's what I think about their amenities, service quality, and value for money.",
+       "like": 33,
+      "img" : "https://etimg.etb2bimg.com/thumb/msid-102989394,width-1200,height-900,resizemode-4/.jpg"
+    },
+    {
+      "id": 11,
+      "type": "info",
+      "info": "Lakshmi Iyer has shared her itinerary for a week in Ladakh.",
+      "desc": "I shared my week-long itinerary for Ladakh. It includes my favorite spots, travel tips, and the breathtaking landscapes I saw.",
+       "like": 133,
+      "img" : "https://etimg.etb2bimg.com/thumb/msid-102989394,width-1200,height-900,resizemode-4/.jpg"
+    },
+    {
+      "id": 12,
+      "type": "info",
+      "info": "Rajesh Sharma has posted a photo diary of his trip to Varanasi.",
+      "desc":  "Check out my photo diary from my trip to Varanasi. It captures the essence of the spiritual ambiance there.",
+      "like" : 24,
+      "img" : "https://5.imimg.com/data5/LI/WK/MY-36672900/varanasi-tour-package-500x500.jpg"
+    },
+    {
+      "id": 13,
+      "type": "info",
+      "info": "Meera Nair has shared tips for budget traveling in India.",
+      "desc": "I've provided some valuable tips for budget traveling in India, including affordable accommodations and money-saving hacks.",
+       "like": 99,
+      "img" : "https://cdn.wishfin.com/media/images/budget-friendly-trav-1712587770.png"
+    },
+    {
+      "id": 14,
+      "type": "info",
+      "info": "Ajay Pandey has posted about hidden gems in Northeast India.",
+      "desc": "I revealed some lesser-known attractions in Northeast India. You should definitely explore the region's pristine beauty and unique culture.",
+       "like": 98,
+      "img" : "https://static2.tripoto.com/media/filter/tst/img/1356094/TripDocument/1559127574_1559127559952.jpg"
+    },
+    {
+      "id": 15,
+      "type": "info",
+      "info": "Smita Desai has shared her experience of traveling solo in India.",
+      "desc":"Traveling solo across India was an empowering experience. I shared the challenges and joys I encountered on my journey.",
+       "like": 87,
+      "img" : "https://lp-cms-production.imgix.net/2023-08/GettyImages-928851490.jpg?auto=format&w=1440&h=810&fit=crop&q=75"
+    },
+    {
+      "id": 16,
+      "type": "info",
+      "info": "Rakesh Kumar has posted a video of his road trip across India.",
+      "desc": "Check out my video highlighting the scenic routes, diverse landscapes, and memorable encounters from my road trip across India.",
+       "like": 35,
+      "img" : "https://www.thetimes.com/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fd816db6f-2e6a-4f1f-8830-6b38a70d5ee5.jpg?crop=1320%2C880%2C440%2C0"
+    },
+    {
+      "id": 17,
+      "type": "info",
+      "info": "Anjali Sharma has reviewed the top 5 beaches in India.",
+      "desc": "I reviewed the top 5 beaches in India. Find out why they should be on your travel list!",
+       "like": 33,
+      "img" : "https://cityfurnish.com/blog/wp-content/uploads/2023/08/beach-near-hotel-min.jpg"
+    },
+    {
+      "id": 18,
+      "type": "info",
+      "info": "Vivek Thakur has shared his experience visiting the backwaters of Kerala.",
+      "desc": "I had a peaceful and rejuvenating experience exploring Kerala's backwaters. The houseboat rides and local culture were unforgettable.",
+       "like": 56,
+      "img" : "https://www.tourmyindia.com/blog/wp-content/uploads/2023/02/Kerala-Backwater-Tour-Guide.jpg"
+    },
+    {
+      "id": 19,
+      "type": "info",
+      "info": "Kiran Jain has posted about the cultural heritage of Jaipur.",
+      "desc": "I highlighted Jaipur's rich cultural heritage. Check out my thoughts on its historical landmarks and traditional arts.",
+       "like": 23,
+      "img" : "https://img.traveltriangle.com/blog/wp-content/uploads/2019/09/Jaipur-a-scenic-city-Unesco.jpg"
+    },
+    {
+      "id": 20,
+      "type": "info",
+      "info": "Rohini Das has shared her favorite temples to visit in India.",
+      "desc":"I listed my favorite temples to visit in India. They have incredible spiritual significance and architectural beauty.",
+      "like": 10,
+      "img" : "https://www.fabhotels.com/blog/wp-content/uploads/2023/04/Kedarnath-1.jpg"
+    }
+  ]
+}

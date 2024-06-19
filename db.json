@@ -3,9 +3,9 @@
     {
       "id": 1,
       "type": "greet",
-      "info": "Welcome back, John Doe!"
-    },
-  ]
+      "info": "Welcome back, John Doe!",
+    }
+  ],
     "posts": [
     {
       "id": 2,
